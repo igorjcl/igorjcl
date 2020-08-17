@@ -3,7 +3,7 @@
 
 - 🏢 I'm currently working at **GCTI**
 - ⚙️ I use daily: `.java`, `.ts`, `.js`, `.html`, `.css`
-- 🌱 Learning all about **Spring** and **Angular**
+- 🌱 Learning about **React**
 - 💬 Ping me about **Web Development**
 - 📫 Reach me: 
   - 🐦 [twitter.com/igparzival](https://twitter.com/igparzival) 
