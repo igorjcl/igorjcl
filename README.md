@@ -6,6 +6,5 @@
 - 🌱 Learning about **React**
 - 💬 Ping me about **Web Development**
 - 📫 Reach me: 
-  - 🐦 [twitter.com/igparzival](https://twitter.com/igparzival) 
   - 📄 [linkedin.com/igorjose](https://www.linkedin.com/in/igor-j-65a74a137/)
 - ⚡️ Fun fact: I ❤️ 🎼
