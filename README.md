@@ -6,8 +6,6 @@
 - ⚙️ I use daily: `java` and `typescript`
 - 🌱 Learning about **Architecture and Go**
 
-<br />
-
 ---
 ### 🤝🏻 Connect with Me
 
